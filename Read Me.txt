@@ -1,0 +1,5 @@
+file->prefesces->http://arduino.esp8266.com/stable/package_esp8266com_index.json(paste)
+Install Sinric Pro Library
+Use sinric pro App key and secret
+use device id
+connect alexa or google assistant with sinric pro
